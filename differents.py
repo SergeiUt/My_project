@@ -1,5 +1,7 @@
 from aiogram import Bot, Dispatcher, types, executor
 
+def main():
+    pass
 
 bot = Bot(TOKEN_API)
 
